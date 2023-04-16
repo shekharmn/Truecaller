@@ -1,0 +1,61 @@
+{
+  "account" : {
+    "userId" : 12069490908792480,
+    "installations" : [ {
+      "applicationName" : "Truecaller",
+      "installation" : {
+        "id" : "a2i0Q--esHCLEFPVShu0XOMsrpbQgro8YrJHAr9HsDrGtYIFV9svo8lv86lefH59",
+        "createdAt" : 1681631273147,
+        "ip" : "122.171.224.145",
+        "ipCountry" : "IN",
+        "language" : "en",
+        "appDetails" : {
+          "version" : "13.11.6",
+          "store" : "GOOGLE_PLAY"
+        },
+        "deviceDetails" : {
+          "deviceId" : "7804234bf07ff6c4",
+          "os" : "android",
+          "model" : "Moto G (5) Plus",
+          "manufacturer" : "motorola",
+          "language" : "en"
+        }
+      }
+    } ],
+    "activationDetails" : [ {
+      "number" : 918296641661,
+      "lastActivation" : 1681631273147,
+      "priority" : 1
+    } ]
+  },
+  "profile" : {
+    "userId" : 12069490908792480,
+    "firstName" : "Sanjay",
+    "lastName" : "V",
+    "personalData" : {
+      "phoneNumbers" : [ {
+        "number" : 918296641661,
+        "countryCode" : "IN"
+      } ],
+      "gender" : "Prefer not to say",
+      "address" : {
+        "country" : "IN"
+      },
+      "onlineIds" : {
+        "email" : "sanjay.v2601@gmail.com"
+      },
+      "avatarUrl" : "https://storage.googleapis.com/tc-images-noneu/myview/1/fbaf46c72c24576477c1250e1687cbf5/3",
+      "isAmbassador" : false,
+      "isTrueName" : true,
+      "privacy" : "Private"
+    },
+    "verifiedEmail" : true
+  },
+  "spammer" : false,
+  "contactRequest" : {
+    "sentCount" : 0,
+    "acceptedCount" : 0,
+    "blockedCount" : 0,
+    "blockedAll" : false
+  }
+}
